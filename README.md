@@ -1,2 +1,2 @@
 # bioinfo
-# Este es un repositorio con ejercicios para usar la biblioteca BioPython.
+# Este es un repositorio con ejercicios con la biblioteca BioPython.
